@@ -4,4 +4,4 @@ This provides a tool for logging and blocking IPs that attempt to connect to a R
 ## ToDo
 
  - Get it to work
- - Move from SQL to CloudWatch for logs
+ - Move from SQL to CloudWatch/Splunk for logs
